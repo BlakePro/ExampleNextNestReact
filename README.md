@@ -1,6 +1,5 @@
-## Getting Started
-```npm i   
-```
+# Getting Started
+`npm i`
 
 ## Backend
 ```
