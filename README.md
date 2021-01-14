@@ -131,9 +131,11 @@ brew install mongodb-community
 ```
 
 # Versions
+```
 node v12.13.0
 npm v6.14.9
 yarn v1.22.10
+```
 
 # Author
 `Cristian Yosafat Hernández Ruiz`
