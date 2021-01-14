@@ -1,28 +1,30 @@
-# Getting Started
-`npm i`
+<p align="center">
+  <a href="https://github.com/BlakePro/ExampleNextNestReact">
+    <img src="ExampleApp.png" alt=">Example of how to use NextJS, NestJS, React" width="40%" height="40%">
+  </a>
+  <h3 align="center">Example of how to use NextJS, NestJS, React</h3>
+</p>
 
-## Backend
-```
-cd backend
-npm run start:dev
-```
 
-## Frontend
+# Frontend
+
+### CLI
 ```
+cd frontend
+npm i
 npm run dev
 ```
 
-## CLI Usage
-```
-nest new backend
-yarn create next-app frontend
-brew install mongodb-community
-```
+Open [http://localhost:8882](http://localhost:8882) with your browser to see the result.
 
-# Frontend
-Open [http://localhost:3000](http://localhost:8882) with your browser to see the result.
+# Backend (RESTAPI Doc)
 
-# RESTAPI Docs (Backend)
+### CLI
+```
+cd backend
+npm i
+npm run start:dev
+```
 
 Where full URLs are provided in responses they will be rendered as if service
 is running on 'http://localhost:8333/'.
@@ -118,6 +120,14 @@ posted to `/v1/product`...
     "product": {},
     "status": 403
 }
+```
+
+
+# CLI Usage
+```
+nest new backend
+yarn create next-app frontend
+brew install mongodb-community
 ```
 
 # Versions
