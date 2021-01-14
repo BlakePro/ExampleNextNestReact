@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/BlakePro/ExampleNextNestReact/">
-    <img src="ExampleApp.png" alt=">Example of how to use NextJS, NestJS, React" width="60%" height="60%">
+    <img src="ExampleApp.png" alt=">Example of how to use NextJS, NestJS, React" width="80%" height="80%">
   </a>
   <h3 align="center">Example of how to use NextJS, NestJS, React</h3>
 </p>
